@@ -1,0 +1,15 @@
+[submodule "Helm"]
+	path = Helm
+	url = https://github.com/SWM-YouQuiz/Helm
+[submodule "Authentication-Service"]
+	path = Authentication-Service
+	url = https://github.com/SWM-YouQuiz/Authentication-Service
+[submodule "Quiz-Service"]
+	path = Quiz-Service
+	url = https://github.com/SWM-YouQuiz/Quiz-Service
+[submodule "User-Service"]
+	path = User-Service
+	url = https://github.com/SWM-YouQuiz/User-Service
+[submodule "Terraform"]
+	path = Terraform
+	url = https://github.com/SWM-YouQuiz/Terraform
